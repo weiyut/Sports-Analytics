@@ -1,0 +1,1 @@
+Data is from kaggle: https://www.kaggle.com/datasets/s903124/mlb-statcast-data?resource=download
